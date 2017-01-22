@@ -1,2 +1,0 @@
-# datasciencecoursera
-Used for coursera
